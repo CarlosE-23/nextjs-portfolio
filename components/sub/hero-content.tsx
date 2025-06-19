@@ -112,7 +112,7 @@ export const HeroContent = () => {
 
         <motion.div
           variants={slideInFromLeft(0.9)}
-          className="flex flex-row gap-4 items-center"
+          className="flex flex-row gap-4 items-center justify-center flex-wrap-reverse sm:flex-nowrap"
         >
           <motion.a
             variants={slideInFromLeft(1)}
