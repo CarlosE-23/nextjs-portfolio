@@ -1,4 +1,4 @@
-import { FaEnvelope, FaFacebook } from "react-icons/fa";
+import { FaEnvelope } from "react-icons/fa";
 import { RxGithubLogo, RxLinkedinLogo } from "react-icons/rx";
 
 export const SKILL_DATA = [
@@ -63,12 +63,12 @@ export const SOCIALS = [
   {
     name: "Gmail",
     icon: FaEnvelope,
-    link: "https://instagram.com",
+    link: "https://mail.google.com/mail/?view=cm&fs=1&to=carlosguanipa23@gmail.com&su=Me%20interesa%20tu%20talento",
   },
   {
     name: "Facebook",
-    icon: FaFacebook,
-    link: "https://facebook.com",
+    icon: RxLinkedinLogo,
+    link: "https://www.linkedin.com/in/carlos-eduardo-guanipa",
   },
 ] as const;
 

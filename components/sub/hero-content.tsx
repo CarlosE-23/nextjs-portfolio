@@ -117,7 +117,7 @@ export const HeroContent = () => {
           <motion.a
             variants={slideInFromLeft(1)}
             className="py-2 button-primary text-center text-white cursor-pointer rounded-lg min-w-[150px] max-w-[200px]"
-            href="https://docs.google.com/document/d/e/2PACX-1vQwmrR6h5WMSoeC3EFcv9YUAGOrhdrma0xa9UyK9t8cwgscQrfIK-3pqeJkc3-WW-Vyi_BQbKMRQod-/pub"
+            href="https://google.com"
             target="_blank"
           >
             Download CV
