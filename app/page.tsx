@@ -13,8 +13,8 @@ export default function Home() {
       <header>
         <meta
           name="impact-site-verification"
-          content="6e642aef-8a19-4845-8120-0c1c2c517ec9"
-        ></meta>
+          content="e2d48a8c-f4ac-4e12-8b4d-4b7694c7dbc9"
+        />
       </header>
       <main className="h-full w-full">
         <div className="flex flex-col gap-20">
